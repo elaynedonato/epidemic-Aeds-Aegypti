@@ -19,11 +19,10 @@ Para usar o aplicativo, o usuário deve inserir a zona, o bairro e o número das
 O projeto nos permite ordenar por bairro ou ordenar por risco. Caso queira, basta apertar no botão que fica abaixo da tabela.
 
 ![](imagens/Quarta.png)
-
+![](imagens/Quinta.png)
 
 Caso o usuário digite um bairro que já foi adicionado, uma mensagem na tela será acionada, informando que aquele bairro já foi cadastrado.
-
-![](imagens/Quinta.png)
+![](imagens/Sexta.png)
 
 O usuário também pode editar na tabela a zona, o bairro e as doenças cadastradas.E de acordo com o que foi editado, uma nova incidência será calculada.
 ![](imagens/Sexta.png)
