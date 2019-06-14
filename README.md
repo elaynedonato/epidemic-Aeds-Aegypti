@@ -8,7 +8,7 @@ Através do Epidemic Aeds Aegypti podemos calcular o risco da incidência do mos
 
 O Epidemic Aeds Aegypti também possui uma tela onde apresenta suas estatísticas, na qual é possível saber a zona com o maior risco e a doença com a maior e menor incidência.
 
-![](imagens/2.PNG)
+![](imagens/Dados.PNG)
 
 # Manual do Usuário
 
