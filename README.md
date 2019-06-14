@@ -4,11 +4,11 @@
 
 Através do Epidemic Aeds Aegypti podemos calcular o risco da incidência do mosquito Aeds Aegipti. A aplicação permite que o usuário insira a zona, o bairro e o número das doenças transmitidas pelo mosquito. A aplicação ordena por bairro e por risco.Abaixo podemos ver a tela inicial da aplicação.
 
-![](imagens/Capturar.PNG)
++![](imagens/Capturar.PNG)
 
 O Epidemic Aeds Aegypti também possui uma tela onde apresenta suas estatísticas, na qual é possível saber a zona com o maior risco e a doença com a maior e menor incidência.
 
-![](imagens/2.PNG)
+-![](imagens/2.PNG)
 
 # Manual do Usuário
 
