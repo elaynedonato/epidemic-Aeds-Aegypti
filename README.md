@@ -9,7 +9,7 @@ Através do Epidemic Aeds Aegypti podemos calcular o risco da incidência do mos
 O Epidemic Aeds Aegypti também possui uma tela onde apresenta suas estatísticas, na qual é possível saber a zona com o maior risco e a doença com a maior e menor incidência.
 
 
-![](imagens/Dados.PNG)
+![](imagens/Dados.png)
 # Manual do Usuário
 
 Para usar o aplicativo, o usuário deve inserir a zona, o bairro e o número das doenças catalogadas por cada bairro. Ao inserir, o programa faz o cálculo da incidência e apresenta se o risco é alto, baixo ou médio.
