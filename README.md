@@ -44,6 +44,8 @@ O usuário não tem permissão para alterar o risco e a incidência, pois eles d
 Além disso, se o usuário quiser limpar todos os dados inseridos, ele pode acionar o botão limpar.
 
 ![](imagens/Onze.png)
+
+
 Temos também a opção de salvar e carregar arquivos. Basta o usuário selecionar a aba de arquivos e escolher a opção salvar ou carregar.
 
 ![](imagens/Doze.png)
